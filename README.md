@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joro Peev</h1>
 <h3 align="center">"Code Smarter, Not Harder"</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joropeev" alt="joropeev" /></a> </p>
-
 - 🔭 I’m currently working on [BlogWebsite](https://github.com/JoroPeev/BlogWebsite)
 
 - 🌱 I’m currently learning **JavaScript**
